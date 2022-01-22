@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				301,
+				-212
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sad fefe left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				-94
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sad fefe down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-266,
+				66
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sad fefe up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-220,
+				-161
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sad fefe right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-140
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sad fefe idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fefesad",
+	"position": [
+		-60,
+		70
+	],
+	"healthicon": "icon-fefe",
+	"flip_x": false,
+	"healthbar_colors": [
+		15,
+		202,
+		246
+	],
+	"camera_position": [
+		30,
+		-40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
