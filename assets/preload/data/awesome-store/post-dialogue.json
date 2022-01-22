@@ -1,0 +1,102 @@
+{
+	"dialogue": [
+		{
+			"expression": "mic",
+			"text": "Man, all that singing has got me tired. ",
+			"boxState": "normal",
+			"portrait": "darwin",
+			"speed": 0.05
+		},
+		{
+			"expression": "regular",
+			"text": "And Hungry!",
+			"boxState": "normal",
+			"portrait": "darwin",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Nothing a highly unhealthy amount of candy to fix that!",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Aw yeah, candy time!",
+			"boxState": "normal",
+			"portrait": "darwin",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"expression": "talk",
+			"text": "Man, this is nice...",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"expression": "talk",
+			"text": "Maybe we don't have to go back home.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "At least here your dad isn't constantly trying to kill me.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "I guess yeah, but we should find our way out after this.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "Who knows what could happen from us staying here too long?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "C'mon babe!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What could POSSIBLY go wrong?"
+		}
+	]
+}

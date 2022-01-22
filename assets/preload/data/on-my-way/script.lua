@@ -12,23 +12,8 @@ end
 
 function onTimerCompleted(tag, loops, loopsLeft)
 	if tag == 'startDialogue' then -- Timer completed, play dialogue
-		startDialogue('dialogue', 'nostalgia');
+		startDialogue('dialogue', 'candy');
 	end
-	if tag == 'startPostDialogue' then -- Timer completed, play dialogue
-		startDialogue('post-dialogue', 'candy');
-	end
-end
-
-local seenSecondCutscene = false;
-
-function onEndSong()
-	if isStoryMode and not seenSecondCutscene then
-		setProperty('inCutscene', true);
-		runTimer('startPostDialogue', 0.8);
-		seenSecondCutscene = true;
-		return Function_Stop;
-	end
-	return Function_Continue;
 end
 
 -- Dialogue (When a dialogue is finished, it calls startCountdown again)
