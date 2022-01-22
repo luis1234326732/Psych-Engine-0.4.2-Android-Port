@@ -1,0 +1,40 @@
+{
+	"storyName": "secret",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"no-bullies",
+			"gumball",
+			[
+				0,
+				173,
+				255
+			]
+		],
+		[
+			"faker",
+			"guball",
+			[
+				80,
+				173,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "bonus"
+}
