@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fefesad.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sad fefe down0000" x="100" y="100" width="448" height="532" frameX="-75" frameY="0" frameWidth="641" frameHeight="780"/>
+	<SubTexture name="sad fefe down0001" x="100" y="100" width="448" height="532" frameX="-75" frameY="0" frameWidth="641" frameHeight="780"/>
+	<SubTexture name="sad fefe down0002" x="648" y="100" width="641" height="473" frameX="0" frameY="-68" frameWidth="641" frameHeight="780"/>
+	<SubTexture name="sad fefe down0003" x="648" y="100" width="641" height="473" frameX="0" frameY="-68" frameWidth="641" frameHeight="780"/>
+	<SubTexture name="sad fefe down0004" x="1389" y="100" width="566" height="489" frameX="-19" frameY="-291" frameWidth="641" frameHeight="780"/>
+	<SubTexture name="sad fefe down0005" x="1389" y="100" width="566" height="489" frameX="-19" frameY="-291" frameWidth="641" frameHeight="780"/>
+	<SubTexture name="sad fefe down0006" x="1389" y="100" width="566" height="489" frameX="-19" frameY="-291" frameWidth="641" frameHeight="780"/>
+	<SubTexture name="sad fefe down0007" x="1389" y="100" width="566" height="489" frameX="-19" frameY="-291" frameWidth="641" frameHeight="780"/>
+	<SubTexture name="sad fefe down0008" x="1389" y="100" width="566" height="489" frameX="-19" frameY="-291" frameWidth="641" frameHeight="780"/>
+	<SubTexture name="sad fefe down0009" x="1389" y="100" width="566" height="489" frameX="-19" frameY="-291" frameWidth="641" frameHeight="780"/>
+	<SubTexture name="sad fefe down0010" x="1389" y="100" width="566" height="489" frameX="-19" frameY="-291" frameWidth="641" frameHeight="780"/>
+	<SubTexture name="sad fefe down0011" x="1389" y="100" width="566" height="489" frameX="-19" frameY="-291" frameWidth="641" frameHeight="780"/>
+	<SubTexture name="sad fefe down0012" x="1389" y="100" width="566" height="489" frameX="-19" frameY="-291" frameWidth="641" frameHeight="780"/>
+	<SubTexture name="sad fefe down0013" x="1389" y="100" width="566" height="489" frameX="-19" frameY="-291" frameWidth="641" frameHeight="780"/>
+	<SubTexture name="sad fefe down0014" x="1389" y="100" width="566" height="489" frameX="-19" frameY="-291" frameWidth="641" frameHeight="780"/>
+	<SubTexture name="sad fefe idle0000" x="2055" y="100" width="627" height="423" frameX="0" frameY="-57" frameWidth="627" frameHeight="480"/>
+	<SubTexture name="sad fefe idle0001" x="2055" y="100" width="627" height="423" frameX="0" frameY="-57" frameWidth="627" frameHeight="480"/>
+	<SubTexture name="sad fefe idle0002" x="2782" y="100" width="472" height="455" frameX="-52" frameY="-25" frameWidth="627" frameHeight="480"/>
+	<SubTexture name="sad fefe idle0003" x="2782" y="100" width="472" height="455" frameX="-52" frameY="-25" frameWidth="627" frameHeight="480"/>
+	<SubTexture name="sad fefe idle0004" x="3354" y="100" width="368" height="480" frameX="-85" frameY="0" frameWidth="627" frameHeight="480"/>
+	<SubTexture name="sad fefe idle0005" x="3354" y="100" width="368" height="480" frameX="-85" frameY="0" frameWidth="627" frameHeight="480"/>
+	<SubTexture name="sad fefe idle0006" x="3354" y="100" width="368" height="480" frameX="-85" frameY="0" frameWidth="627" frameHeight="480"/>
+	<SubTexture name="sad fefe idle0007" x="3354" y="100" width="368" height="480" frameX="-85" frameY="0" frameWidth="627" frameHeight="480"/>
+	<SubTexture name="sad fefe idle0008" x="3354" y="100" width="368" height="480" frameX="-85" frameY="0" frameWidth="627" frameHeight="480"/>
+	<SubTexture name="sad fefe idle0009" x="3354" y="100" width="368" height="480" frameX="-85" frameY="0" frameWidth="627" frameHeight="480"/>
+	<SubTexture name="sad fefe idle0010" x="3354" y="100" width="368" height="480" frameX="-85" frameY="0" frameWidth="627" frameHeight="480"/>
+	<SubTexture name="sad fefe idle0011" x="3354" y="100" width="368" height="480" frameX="-85" frameY="0" frameWidth="627" frameHeight="480"/>
+	<SubTexture name="sad fefe idle0012" x="3354" y="100" width="368" height="480" frameX="-85" frameY="0" frameWidth="627" frameHeight="480"/>
+	<SubTexture name="sad fefe idle0013" x="3354" y="100" width="368" height="480" frameX="-85" frameY="0" frameWidth="627" frameHeight="480"/>
+	<SubTexture name="sad fefe idle0014" x="3354" y="100" width="368" height="480" frameX="-85" frameY="0" frameWidth="627" frameHeight="480"/>
+	<SubTexture name="sad fefe left0000" x="100" y="732" width="1149" height="409" frameX="0" frameY="0" frameWidth="1153" frameHeight="409"/>
+	<SubTexture name="sad fefe left0001" x="100" y="732" width="1149" height="409" frameX="0" frameY="0" frameWidth="1153" frameHeight="409"/>
+	<SubTexture name="sad fefe left0002" x="1349" y="732" width="1029" height="409" frameX="-118" frameY="0" frameWidth="1153" frameHeight="409"/>
+	<SubTexture name="sad fefe left0003" x="1349" y="732" width="1029" height="409" frameX="-118" frameY="0" frameWidth="1153" frameHeight="409"/>
+	<SubTexture name="sad fefe left0004" x="2478" y="732" width="865" height="409" frameX="-288" frameY="0" frameWidth="1153" frameHeight="409"/>
+	<SubTexture name="sad fefe left0005" x="2478" y="732" width="865" height="409" frameX="-288" frameY="0" frameWidth="1153" frameHeight="409"/>
+	<SubTexture name="sad fefe left0006" x="2478" y="732" width="865" height="409" frameX="-288" frameY="0" frameWidth="1153" frameHeight="409"/>
+	<SubTexture name="sad fefe left0007" x="2478" y="732" width="865" height="409" frameX="-288" frameY="0" frameWidth="1153" frameHeight="409"/>
+	<SubTexture name="sad fefe left0008" x="2478" y="732" width="865" height="409" frameX="-288" frameY="0" frameWidth="1153" frameHeight="409"/>
+	<SubTexture name="sad fefe left0009" x="2478" y="732" width="865" height="409" frameX="-288" frameY="0" frameWidth="1153" frameHeight="409"/>
+	<SubTexture name="sad fefe left0010" x="2478" y="732" width="865" height="409" frameX="-288" frameY="0" frameWidth="1153" frameHeight="409"/>
+	<SubTexture name="sad fefe left0011" x="2478" y="732" width="865" height="409" frameX="-288" frameY="0" frameWidth="1153" frameHeight="409"/>
+	<SubTexture name="sad fefe left0012" x="2478" y="732" width="865" height="409" frameX="-288" frameY="0" frameWidth="1153" frameHeight="409"/>
+	<SubTexture name="sad fefe left0013" x="2478" y="732" width="865" height="409" frameX="-288" frameY="0" frameWidth="1153" frameHeight="409"/>
+	<SubTexture name="sad fefe left0014" x="2478" y="732" width="865" height="409" frameX="-288" frameY="0" frameWidth="1153" frameHeight="409"/>
+	<SubTexture name="sad fefe right0000" x="100" y="1241" width="714" height="455"/>
+	<SubTexture name="sad fefe right0001" x="100" y="1241" width="714" height="455"/>
+	<SubTexture name="sad fefe right0002" x="914" y="1241" width="533" height="455" frameX="0" frameY="0" frameWidth="714" frameHeight="455"/>
+	<SubTexture name="sad fefe right0003" x="914" y="1241" width="533" height="455" frameX="0" frameY="0" frameWidth="714" frameHeight="455"/>
+	<SubTexture name="sad fefe right0004" x="1547" y="1241" width="502" height="455" frameX="0" frameY="0" frameWidth="714" frameHeight="455"/>
+	<SubTexture name="sad fefe right0005" x="1547" y="1241" width="502" height="455" frameX="0" frameY="0" frameWidth="714" frameHeight="455"/>
+	<SubTexture name="sad fefe right0006" x="1547" y="1241" width="502" height="455" frameX="0" frameY="0" frameWidth="714" frameHeight="455"/>
+	<SubTexture name="sad fefe right0007" x="1547" y="1241" width="502" height="455" frameX="0" frameY="0" frameWidth="714" frameHeight="455"/>
+	<SubTexture name="sad fefe right0008" x="1547" y="1241" width="502" height="455" frameX="0" frameY="0" frameWidth="714" frameHeight="455"/>
+	<SubTexture name="sad fefe right0009" x="1547" y="1241" width="502" height="455" frameX="0" frameY="0" frameWidth="714" frameHeight="455"/>
+	<SubTexture name="sad fefe right0010" x="1547" y="1241" width="502" height="455" frameX="0" frameY="0" frameWidth="714" frameHeight="455"/>
+	<SubTexture name="sad fefe right0011" x="1547" y="1241" width="502" height="455" frameX="0" frameY="0" frameWidth="714" frameHeight="455"/>
+	<SubTexture name="sad fefe right0012" x="1547" y="1241" width="502" height="455" frameX="0" frameY="0" frameWidth="714" frameHeight="455"/>
+	<SubTexture name="sad fefe right0013" x="1547" y="1241" width="502" height="455" frameX="0" frameY="0" frameWidth="714" frameHeight="455"/>
+	<SubTexture name="sad fefe right0014" x="1547" y="1241" width="502" height="455" frameX="0" frameY="0" frameWidth="714" frameHeight="455"/>
+	<SubTexture name="sad fefe up0000" x="2149" y="1241" width="221" height="693" frameX="-51" frameY="0" frameWidth="310" frameHeight="693"/>
+	<SubTexture name="sad fefe up0001" x="2149" y="1241" width="221" height="693" frameX="-51" frameY="0" frameWidth="310" frameHeight="693"/>
+	<SubTexture name="sad fefe up0002" x="2470" y="1241" width="282" height="563" frameX="-15" frameY="-128" frameWidth="310" frameHeight="693"/>
+	<SubTexture name="sad fefe up0003" x="2470" y="1241" width="282" height="563" frameX="-15" frameY="-128" frameWidth="310" frameHeight="693"/>
+	<SubTexture name="sad fefe up0004" x="2852" y="1241" width="310" height="515" frameX="0" frameY="-176" frameWidth="310" frameHeight="693"/>
+	<SubTexture name="sad fefe up0005" x="2852" y="1241" width="310" height="515" frameX="0" frameY="-176" frameWidth="310" frameHeight="693"/>
+	<SubTexture name="sad fefe up0006" x="2852" y="1241" width="310" height="515" frameX="0" frameY="-176" frameWidth="310" frameHeight="693"/>
+	<SubTexture name="sad fefe up0007" x="2852" y="1241" width="310" height="515" frameX="0" frameY="-176" frameWidth="310" frameHeight="693"/>
+	<SubTexture name="sad fefe up0008" x="2852" y="1241" width="310" height="515" frameX="0" frameY="-176" frameWidth="310" frameHeight="693"/>
+	<SubTexture name="sad fefe up0009" x="2852" y="1241" width="310" height="515" frameX="0" frameY="-176" frameWidth="310" frameHeight="693"/>
+	<SubTexture name="sad fefe up0010" x="2852" y="1241" width="310" height="515" frameX="0" frameY="-176" frameWidth="310" frameHeight="693"/>
+	<SubTexture name="sad fefe up0011" x="2852" y="1241" width="310" height="515" frameX="0" frameY="-176" frameWidth="310" frameHeight="693"/>
+	<SubTexture name="sad fefe up0012" x="2852" y="1241" width="310" height="515" frameX="0" frameY="-176" frameWidth="310" frameHeight="693"/>
+	<SubTexture name="sad fefe up0013" x="2852" y="1241" width="310" height="515" frameX="0" frameY="-176" frameWidth="310" frameHeight="693"/>
+	<SubTexture name="sad fefe up0014" x="2852" y="1241" width="310" height="515" frameX="0" frameY="-176" frameWidth="310" frameHeight="693"/>
+</TextureAtlas>
