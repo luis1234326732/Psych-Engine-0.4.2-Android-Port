@@ -1,0 +1,43 @@
+{
+	"storyName": "darwin",
+	"hideFreeplay": false,
+	"weekBackground": "cumwin",
+	"weekBefore": "gumball",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"on-my-way",
+			"darwin",
+			[
+				255,
+				101,
+				0
+			]
+		],
+		[
+			"out-of-water",
+			"darwin",
+			[
+				255,
+				101,
+				0
+			]
+		],
+		[
+			"awesome-store",
+			"darwin",
+			[
+				255,
+				101,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 1"
+}
